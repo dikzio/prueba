@@ -3,3 +3,6 @@ def suma(x, y):
 
 def resta(x, y):
 	return x-y
+
+def producto(x, y):
+	return x*y
